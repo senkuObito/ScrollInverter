@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scroll Inverter</string>
+    <string name="accessibility_service_description">Inverts scroll direction for physical trackpads.</string>
+    <string name="service_status_active">Service is ACTIVE</string>
+    <string name="service_status_inactive">Service is INACTIVE</string>
+    <string name="open_settings">Open Accessibility Settings</string>
+    <string name="instructions">Enable "Scroll Inverter" in Accessibility Settings to invert trackpad scrolling.</string>
+</resources>
